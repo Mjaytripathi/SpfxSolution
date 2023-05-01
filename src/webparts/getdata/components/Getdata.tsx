@@ -68,6 +68,7 @@ export default class Getdata extends React.Component<IGetdataProps, IGetDataStat
 <br/>
 <br/>
 <Getbutton/>
+<h1>Hello world</h1>
       </>
     );
   }
